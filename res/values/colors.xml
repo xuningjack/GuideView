@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<!-- 开启第一次的红色 -->
+	<color name="text_now_entry_red">#FFEF5346</color>
+</resources>
